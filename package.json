@@ -1,0 +1,30 @@
+{
+  "name": "excel-io",
+  "version": "1.0.0",
+  "description": "Node Application to Read and Write Excel Work Books and Work Sheets",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ravivamsi/excel-io.git"
+  },
+  "keywords": [
+    "excel",
+    "workbook",
+    "worksheet",
+    "row",
+    "column",
+    "process"
+  ],
+  "author": "Vamsi Ravi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ravivamsi/excel-io/issues"
+  },
+  "homepage": "https://github.com/ravivamsi/excel-io#readme",
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
+}
